@@ -6,3 +6,6 @@
 ![Clique Aqui:](https://prascabecas.blogspot.com/2006/01/sou-feito-de-linguagem-logo-blogo.html?m=1)
 ### Matricule-se Grátis
 [Clique Aqui](https://www.google.com.br/)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Leal2021/papel_de_parede)
+
