@@ -8,4 +8,6 @@
 [Clique Aqui](https://www.google.com.br/)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Leal2021/papel_de_parede)
+![GitHub License](https://img.shields.io/github/license/Leal2021/papel_de_parede)
+
 
