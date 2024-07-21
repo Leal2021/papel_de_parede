@@ -1,3 +1,5 @@
+![GitHub language count](https://img.shields.io/github/languages/count/Leal2021/papel_de_parede)
+
 # Papel de Parede para
 ## Windows e Linux
 
